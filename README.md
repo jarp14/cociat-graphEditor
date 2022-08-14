@@ -24,15 +24,16 @@ To run it, make sure you have installed the next components:
 # SpacEclipse
 
 Requirements:
+
 1. Eclipse Communications Framework 3.13.2:
 
-    https://www.eclipse.org/ecf/downloads.php
-    [URI] https://download.eclipse.org/rt/ecf/3.13.2/site.p2/
+    - https://www.eclipse.org/ecf/downloads.php
+    - [URI] https://download.eclipse.org/rt/ecf/3.13.2/site.p2/
 
-2. DataBase & ECF Generic Server configuration
+2. DataBase & ECF Generic Server configuration:
 
-    MySQL Workbench 6.X
-    MySQL Server 5.7.X
+    - MySQL Workbench 6.X
+    - MySQL Server 5.7.X
 
 The database script is located @ spaceclipse/resources/database.sql
 It is necessary to change the DBName, DBUser & DBPassword in the properties file, located @ package spaceclipse/sincronizacion/issc_en.properties
