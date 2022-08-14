@@ -4,8 +4,8 @@ Currently, CIAT includes the modeling of diagrams as follows: Sociograms, Proces
 
 To run it, make sure you have installed the next components:
 
-- Eclipse IDE 2022-06 R - Eclipse Modeling Tools:</br>
-  - https://www.eclipse.org/downloads/packages/release/2022-03/r/eclipse-modeling-tools </br>
+- Eclipse IDE 2021-12 R - Eclipse Modeling Tools:</br>
+  - https://www.eclipse.org/downloads/packages/release/2021-12/r/eclipse-modeling-tools </br>
   
 - Epsilon:</br>
   - https://www.eclipse.org/epsilon/download/ </br> 
